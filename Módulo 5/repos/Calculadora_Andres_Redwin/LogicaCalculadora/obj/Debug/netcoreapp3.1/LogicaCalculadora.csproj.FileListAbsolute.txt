@@ -1,0 +1,39 @@
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.deps.json
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.dll
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.csproj.AssemblyReference.cache
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.AssemblyInfoInputs.cache
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.AssemblyInfo.cs
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.dll
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.deps.json
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.dll
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.csproj.AssemblyReference.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.AssemblyInfoInputs.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.AssemblyInfo.cs
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.dll
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.deps.json
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.dll
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.csprojAssemblyReference.cache
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.AssemblyInfoInputs.cache
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.AssemblyInfo.cs
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.csproj.CoreCompileInputs.cache
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.dll
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.deps.json
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.dll
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.csproj.AssemblyReference.cache
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.AssemblyInfoInputs.cache
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.AssemblyInfo.cs
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.csproj.CoreCompileInputs.cache
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.dll
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.pdb

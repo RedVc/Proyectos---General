@@ -1,0 +1,102 @@
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.exe
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.deps.json
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.runtimeconfig.json
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.runtimeconfig.dev.json
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.dll
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.pdb
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.AssemblyReference.cache
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.frmCALCULADORA.resources
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.GenerateResource.cache
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.AssemblyInfoInputs.cache
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.AssemblyInfo.cs
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.CoreCompileInputs.cache
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.dll
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.pdb
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.genruntimeconfig.cache
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora.dll
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+C:\Users\djred\source\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.CopyComplete
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.exe
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.deps.json
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.runtimeconfig.json
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.runtimeconfig.dev.json
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.dll
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.pdb
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora.dll
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.AssemblyReference.cache
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.frmCALCULADORA.resources
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.GenerateResource.cache
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.AssemblyInfoInputs.cache
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.AssemblyInfo.cs
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.CoreCompileInputs.cache
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.CopyComplete
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.dll
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.pdb
+C:\Users\Andrés Villalobos\OneDrive\Documentos\Programación- Andrés\Módulo_OOP\Trabajos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.genruntimeconfig.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.exe
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.deps.json
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.runtimeconfig.json
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.runtimeconfig.dev.json
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.dll
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.pdb
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora.dll
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.AssemblyReference.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.frmCALCULADORA.resources
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.GenerateResource.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.AssemblyInfoInputs.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.AssemblyInfo.cs
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.CoreCompileInputs.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.CopyComplete
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.dll
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.pdb
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.genruntimeconfig.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora2.dll
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora2.pdb
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.exe
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.deps.json
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.runtimeconfig.json
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.runtimeconfig.dev.json
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.dll
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.pdb
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora.dll
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora2.dll
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora2.pdb
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.AssemblyReference.cache
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.frmCALCULADORA.resources
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.GenerateResource.cache
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.GeneratedMSBuildEditorConfig.editorconfig
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.AssemblyInfoInputs.cache
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.AssemblyInfo.cs
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.CoreCompileInputs.cache
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.CopyComplete
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.dll
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.pdb
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.genruntimeconfig.cache
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.exe
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.deps.json
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.runtimeconfig.json
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.runtimeconfig.dev.json
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.dll
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.pdb
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora.dll
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora2.dll
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora2.pdb
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\bin\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csprojAssemblyReference.cache
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.frmCALCULADORA.resources
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.GenerateResource.cache
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.AssemblyInfoInputs.cache
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.AssemblyInfo.cs
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.CoreCompileInputs.cache
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.csproj.CopyComplete
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.dll
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.pdb
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.genruntimeconfig.cache
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.Properties.Resources.resources
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\Calculadora_Andres_Redwin\obj\Debug\netcoreapp3.1\Calculadora_Andres_Redwin.Properties.Resources.resources

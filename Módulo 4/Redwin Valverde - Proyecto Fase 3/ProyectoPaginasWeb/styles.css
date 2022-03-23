@@ -1,0 +1,701 @@
+
+/* VARIABLES */
+:root {
+    /* principales */
+    --primario: rgb(0, 170, 122);
+    --secundario: rgb(0, 216, 151);
+    
+    /* géneros */
+    --terror: rgb(182, 0, 0);
+    --shooters: rgb(0, 93, 185);
+    --aventura: rgb(112, 187, 0);
+    --estrategia: rgb(119, 0, 204);
+}
+
+/* LINKS */
+a:link{
+    color: inherit;
+}
+a:visited{
+    color: inherit;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: var(--primario);
+}
+
+
+/* SCROLLBAR */
+/* ancho del scrollbar */
+body::-webkit-scrollbar{
+    width: 7px;
+}
+
+/* color base del scrollbar */
+body::-webkit-scrollbar-thumb{
+    background-color:var(--primario);
+    border-radius: 4px;
+}
+
+/* color cuando se coloca el mouse sobre él */
+body::-webkit-scrollbar-thumb:hover {
+    background: var(--secundario);
+}
+
+/* color del track */
+body::-webkit-scrollbar-track {
+    background-color: rgb(24, 41, 41);
+}
+
+/* hace que todo tenga margen y padding 0 */
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Assistant', sans-serif;
+
+    box-sizing: border-box;
+}
+
+/* coloca el color del cuerpo en negro */
+body {
+    background-color: rgb(15, 15, 15);
+    /* color: white; */
+}
+
+
+
+/* CONTENEDOR */
+/* contiene la grid de la página principal de géneros */
+.contenedorGeneros {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    /* max-width: 1800px; */
+    margin: 0px auto;
+    
+    display: grid;
+    grid-template-columns: auto 1fr 1fr;
+    grid-template-rows: repeat(4, auto);
+
+    grid-template-areas: "header    header  header"
+                         "aside     aside   aside"
+                         "main     main    main"
+                         "footer    footer  footer";
+}
+
+
+/*____________________________ HEADER ____________________________*/
+/* define el header en el área */
+.header {
+    grid-area: header;
+}
+
+
+/* modifica "a" que está dentro de .nav y a su vez .header */
+.header .nav a {
+    background-color: white;
+    width: fit-content;
+
+    text-align: center;
+    font-size: 100%;
+    color: black;
+
+    margin-right: 10px;
+    padding: 3px;
+}
+
+/* modifica "a" que está dentro de .nav y a su vez .footer */
+.footer .nav a {
+    background-color: white;
+    width: fit-content;
+
+    text-align: center;
+    font-size: 100%;
+    color: black;
+
+    margin-right: 10px;
+    padding: 3px;
+}
+
+/* modifica .nav que está dentro de .footer */
+.footer .nav {
+    text-align: center;
+    margin: 30px auto;
+}
+
+/* modifica .nav */
+.nav {
+    margin-top: 10px;
+}
+
+/* cuando se colocca el mouse sobre a, realiza una acción */
+.nav a:hover {
+    zoom: 110%;
+    background-color: black;
+    color: white;
+    border: solid white 1px;
+}
+
+
+
+
+
+
+
+
+
+/* ____________________________ ASIDE ____________________________*/
+/* determina su grid-area como aside,
+   cuando la parte más alta del navegador "pega" con el aside, lo ancla a él
+*/
+.aside {
+    grid-area: aside;
+    position: sticky;
+    top: 0px;
+
+    margin: 20px 0px;
+    padding: 5px;
+
+    text-align: center;
+    font-size: 100%;
+    color: white;
+    background-color: black;
+
+    border: solid var(--secundario) 3px;
+    border-radius: 8px;
+}
+
+
+/* cuando se xoloca el mose sobre él, realiza una acción */
+.aside a:hover {
+    zoom: 105%;
+    background-color: rgb(219, 219, 219);
+    padding: 10px;
+    border-radius: 100px;
+}
+
+/* modifica todos los .aside a */
+.aside a {
+    
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* cuando a la clase se le coloca el mouse sobre él, cambia de color */
+.inicioTerror:hover {
+    color: var(--terror);
+}
+
+.inicioShooters:hover {
+    color: var(--shooters);
+}
+
+.inicioAventura:hover {
+    color: var(--aventura);
+}
+
+.inicioEstrategia:hover {
+    color: var(--estrategia);
+}
+
+
+/* a todos los header, main y footer les da margen y pagging */
+.header, .main, .footer {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+
+/*____________________________ MAIN ____________________________*/
+/* determina su grid-area como main */
+.main {
+    grid-area: main;
+    max-width: 1300px;
+    margin: auto;
+}
+
+/* modifica la clase */
+.boton {
+    background-color: white;
+
+    margin-left: 10px;
+
+    padding: 3px;
+    font-size: 100%;
+
+    border-radius: 4px;
+}
+
+/* cuando se coloca el mouse sobre él hace un zoom */
+.boton:hover {
+    zoom: 105%;
+}
+
+
+/*____________________________ FOOTER ____________________________*/
+/* define su grid-area como footer */
+.footer {
+    grid-area: footer;
+    background-color: var(--primario);
+    color: black;
+}
+
+.footer p {
+    background-color: black;
+    padding: 20px;
+}
+
+/* modifica la clase */
+.copi {
+    color: gray;
+    text-align: center;
+}
+
+
+
+/* NOMBRE DE GÉNERO */
+/* modifica la clase */
+.frase {
+    width: 250px;
+    /* width: -moz-min-content; */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+    font-size: 105%;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.frase2 {
+    width: 190px;
+}
+
+
+/* LOGO */
+/* modifica el logo */
+.logo{
+    border-image-width: auto;
+    border-radius: 20px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    background-size: 10%;
+    width: 100%;
+}
+
+/* contenedorGeneros */
+/* modifica section que está dentro de .contenedorGeneros */
+.contenedorGeneros section {
+    border-left: var(--primario) solid 3px;
+    border-right: var(--primario) solid 3px;
+    margin-bottom: 50px;
+}
+
+.sectionGeneros {
+    /* position: ; */
+
+    background-color: black;
+    padding-bottom: 20px;
+}
+
+/* modifica h1 que está dentro de .sectionGeneros que a su vez está dentro de .contenedorGeneros */
+.contenedorGeneros .sectionGeneros h1 {
+    color: black;
+    text-align: center;
+    font-size: 250%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+/* modifica img que está dentro de .sectionGeneros que a su vez está dentro de .contenedorGeneros */
+.contenedorGeneros .sectionGeneros img {
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    max-width: 100%;
+    height: auto;
+}
+
+/* modifica p que está dentro de .sectionGeneros que a su vez está dentro de .contenedorGeneros */
+.contenedorGeneros .sectionGeneros p {
+    color: white;
+    margin: 10px;
+}
+
+
+
+/* contenedorIndex */
+/* define el orden de las areas del .contenedorIndex */
+.contenedorIndex {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    /* max-width: 1500px; */
+    margin: 0px auto;
+    
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    grid-template-rows: repeat(3, auto);
+
+    grid-template-areas: "header    header  header"
+                         "aside     aside   aside"
+                         "main     main    main"
+                         "footer    footer  footer";
+}
+
+/* modifica .main que está dentro de .contenedorIndex */
+.contenedorIndex .main {
+    display: block;
+    margin: 50px auto;
+    font-size: 30px;
+    text-align: left;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.37);
+    
+    border-radius: 4px;
+    width: 100%;
+    padding: 10px;
+
+    box-shadow: 0px 0px 100px 2px white;
+}
+
+.formulario {
+    max-width: 300px;
+}
+
+/* modifica h1 que está dentro de .contenedorIndex */
+.contenedorIndex h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* modifica a que está dentro de .main que a su vez está dentro de .contenedorIndex */
+.contenedorIndex .main a {
+    zoom: 110%;
+}
+
+/* cuando se coloca el mouse sobre él, realiza una acción */
+.contenedorIndex .main a:hover {
+    color: black;
+    background-color: white;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+/* modifica el text area para que no se cambie su tamaño */
+.contenedorIndex .main textarea {
+    resize: none;
+}
+
+/* modifica la clase */
+.enviado {
+    font-size: 100%;
+    text-align: center;
+}
+
+.contacto {
+    margin: 20px auto;
+    max-width: 1300px;
+    color: white;
+    font-size: 35px;
+}
+
+/* modifica a que está dentro de .contacto */
+.contacto a {
+    font-size: 35px;
+}
+
+/* cuando se coloca el mouse sobre él, realiza una acción */
+.face:hover {
+    color: rgb(0, 153, 255);
+}
+
+.insta:hover {
+    color: rgb(211, 0, 200);
+    
+}
+
+.whats:hover {
+    color: rgb(8, 192, 2);
+}
+
+
+
+/* contenedorMenus */
+.contenedorMenus {
+	padding-top: 10px;
+    padding-bottom: 10px;
+    
+    /* max-width: 1500px; */
+    margin: 0px auto;
+}
+
+.contenedorMenus .section {
+    margin-bottom: 20px;
+}
+
+/* modifica img que está dentro de .section que a su vez está dentro de .contenedorMenus */
+.contenedorMenus .section img {
+    display: block;
+
+    margin: 10px auto;
+
+    max-width: 70%;
+    height: auto;
+}
+
+/* modifica .main que está dentro de .contenedorMenus */
+.contenedorMenus .main {
+    display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	grid-template-rows: repeat(1, auto 1fr auto);
+	gap: 20px;
+
+    margin-bottom: 40px;
+}
+
+/* modifica .section que está dentro de .contenedorMenus */
+.contenedorMenus .section {
+    width: 1fr;
+    height: auto;
+    padding: 10px;
+	box-shadow: 0 4px 10px var(--primario);
+	border-radius: 5px;
+
+	display: grid;
+	grid-row: span 3;
+
+	/* para navegadores que no soportan subgrid */
+	grid-template-rows: auto 1fr auto;
+
+	grid-column: span 3;
+
+	grid-template-columns: repeat(3, auto);
+	/* grid-template-columns: subgrid; */
+}
+
+/* modifica h1 que está dentro de .section que a su vez está dentro de .contenedorMenus */
+.contenedorMenus .section h1 {
+	color: black;
+	font-size: 32px;
+    text-align: center;
+	grid-column: span 3;
+}
+
+/* modifica h2 que está dentro de .section que a su vez está dentro de .contenedorMenus */
+.contenedorMenus .section h2 {
+	color: var(--primario);
+    background-color: #fff;
+    width: 200px;
+    border: solid var(--secundario) 1px;
+
+    margin: 10px auto;
+    padding: 5px 5px;
+    border-radius: 4px;
+	font-size: 25px;
+    text-align: center;
+}
+
+/* cuando se coloca el mouse sobre él, realiza una acción */
+.contenedorMenus .section h2:hover {
+    color: red;
+    background-color: lightgrey;
+}
+
+/* modifica p que está dentro de .section que a su vez está dentro de .contenedorMenus */
+.contenedorMenus .section p {
+	line-height: 28px;
+	color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    border-radius: 4px;
+}
+
+
+
+
+/* contenedorJuego */
+/* define el orden de las areas del .contenedorjuego */
+.contenedorJuego {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    /* max-width: 1500px; */
+    margin: 0px auto;
+    
+    display: grid;
+    grid-template-columns: auto 1fr 1fr;
+    grid-template-rows: repeat(4, auto);
+
+    grid-template-areas: "header    header  header"
+                         "aside     aside   aside"
+                         "main     main    main"
+                         "footer    footer  footer";
+}
+
+.contenedorJuego .main {
+    border-left: 1px solid var(--primario);
+    border-right: 1px solid var(--primario);
+}
+
+.contenedorJuego .main h1{
+    text-align: center;
+    font-size: 200%;
+    margin-bottom: 10px;
+}
+
+.contenedorJuego .main .presentacion {
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+
+    max-width: 100%;
+    height: auto;
+}
+
+.contenedorJuego .main p {
+    color: white;
+    margin: 10px 10px;
+}
+
+.contenedorJuego .main p a {
+    color: var(--primario);
+    margin: 10px 10px;
+}
+
+.contenedorJuego .main p a:hover {
+    color: red;    
+    margin: 10px 10px;
+}
+
+.contenedorJuego .main form {
+    color: white;
+    margin: 10px auto;
+}
+
+.contenedorJuego .main form textarea {
+    resize: none;
+}
+
+.contenedorJuego .main .iframe {
+    display: block;
+    margin: 10px 30%;
+    max-width: 100%;
+    height: auto;
+}
+
+.contenedorJuego form {
+    width: 500px;
+    box-shadow: 3px 1px 10px var(--primario);
+    padding: 10px;
+    border: 1px solid var(--primario);
+}
+
+.contenedorJuego form label {
+    margin: 10px auto;
+}
+
+.compra {
+    color: white;
+}
+
+
+
+
+
+/* capas de personalización por género */
+
+/* INICIO */
+.inicio{
+    background-color: var(--primario);
+}
+
+/* TERROR */
+.terror{
+    background-color: var(--terror);
+}
+
+/* SHOOTERS */
+.shooters{
+    background-color: var(--shooters);
+}
+
+/* AVENTURA */
+.aventura{
+    background-color: var(--aventura);
+}
+
+/* ESTRATEGIA */
+.estrategia{
+    background-color: var(--estrategia);
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+	.contenedorGeneros {
+		grid-template-areas: "header 	header 		header"
+						 	"aside      aside    	aside"
+                            "main      main        main"
+						 	"footer 	footer 		footer";
+	}
+
+    .contenedorIndex {
+		grid-template-areas: "header 	header 		header"
+						 	"aside      aside    	aside"
+                            "main      main        main"
+						 	"footer 	footer 		footer";
+	}
+
+    .contenedorMenus .main {
+		grid-template-columns: repeat(3, 1fr);
+	}
+
+	.contenedorMenus .section {
+		grid-template-rows: auto 1fr auto;
+	}
+
+	.contenedorMenus .main p {
+		margin: 20px 0;
+	}
+
+
+    iframe {
+        margin-left: 0px;
+
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .contenedorJuego form {
+        width: 250px;
+    }
+}
+
+
+@media screen and (max-width: 1000px) {
+    .contenedorJuego .main .iframe {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
+

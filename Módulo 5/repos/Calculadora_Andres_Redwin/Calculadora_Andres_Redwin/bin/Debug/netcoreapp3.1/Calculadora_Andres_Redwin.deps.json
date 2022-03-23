@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculadora_Andres_Redwin/1.0.0": {
+        "dependencies": {
+          "LogicaCalculadora": "1.0.0",
+          "LogicaCalculadora2": "1.0.0"
+        },
+        "runtime": {
+          "Calculadora_Andres_Redwin.dll": {}
+        }
+      },
+      "LogicaCalculadora/1.0.0": {
+        "runtime": {
+          "LogicaCalculadora.dll": {}
+        }
+      },
+      "LogicaCalculadora2/1.0.0": {
+        "runtime": {
+          "LogicaCalculadora2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora_Andres_Redwin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaCalculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaCalculadora2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

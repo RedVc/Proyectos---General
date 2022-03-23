@@ -1,0 +1,15 @@
+CREATE DATABASE DB_Pruebas
+GO
+
+USE DB_Pruebas;
+
+CREATE TABLE PRUEBA(
+Columna time(0) NOT NULL
+);
+
+INSERT INTO PRUEBA
+					(Columna)
+			VALUES	('12:34');
+
+
+SELECT * FROM PRUEBA;

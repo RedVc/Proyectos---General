@@ -1,0 +1,29 @@
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora2\bin\Debug\netcoreapp3.1\LogicaCalculadora2.deps.json
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora2\bin\Debug\netcoreapp3.1\LogicaCalculadora2.dll
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora2\bin\Debug\netcoreapp3.1\LogicaCalculadora2.pdb
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.csproj.AssemblyReference.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.AssemblyInfoInputs.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.AssemblyInfo.cs
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.csproj.CoreCompileInputs.cache
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.dll
+C:\Users\djred\Downloads\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.pdb
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\bin\Debug\netcoreapp3.1\LogicaCalculadora2.deps.json
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\bin\Debug\netcoreapp3.1\LogicaCalculadora2.dll
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\bin\Debug\netcoreapp3.1\LogicaCalculadora2.pdb
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.csprojAssemblyReference.cache
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.AssemblyInfoInputs.cache
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.AssemblyInfo.cs
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.csproj.CoreCompileInputs.cache
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.dll
+D:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.pdb
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\bin\Debug\netcoreapp3.1\LogicaCalculadora2.deps.json
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\bin\Debug\netcoreapp3.1\LogicaCalculadora2.dll
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\bin\Debug\netcoreapp3.1\LogicaCalculadora2.pdb
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.csproj.AssemblyReference.cache
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.GeneratedMSBuildEditorConfig.editorconfig
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.AssemblyInfoInputs.cache
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.AssemblyInfo.cs
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.csproj.CoreCompileInputs.cache
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.dll
+F:\INA Programación de Aplicaciones\Módulo 5\repos\Calculadora_Andres_Redwin\LogicaCalculadora2\obj\Debug\netcoreapp3.1\LogicaCalculadora2.pdb
